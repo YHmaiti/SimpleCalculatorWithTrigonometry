@@ -4,6 +4,8 @@
   GitHub: YHmaiti
 
 => This program represents a calcuator in Julia
+=> Run the calculator.jl file first and the second file Trigonometry.jl is a supporting file
+containing additional created function to be used during the calculation.
 
 This program provides basic operations such as: addition, substraction, division and multiplication 
 of any expression entered by the user as long as it follows the set instructions.
