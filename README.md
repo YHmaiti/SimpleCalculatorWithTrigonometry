@@ -28,5 +28,4 @@ and the match function
  
 Packages: 
  
-   => using CalculusWithJulia
-   => using Match
+   => using CalculusWithJulia & using Match
